@@ -141,7 +141,7 @@ A website focused on local job opportunities.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/snehal-barate-33156b370)">
+<a href="[YOUR_LINKEDIN_URL]">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
